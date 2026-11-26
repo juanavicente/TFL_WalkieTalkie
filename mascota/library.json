@@ -1,0 +1,8 @@
+
+{
+  "name": "MascotaTFL",
+  "version": "1.0.0",
+  "description": "Mascota virtual compartida para el Walkie Talkie TFL",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
